@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/*Sets body background color*/
 body {
     background-color: #d9dcd6;
 }
 
+/*Sets header styling attributes*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,6 +17,7 @@ header {
     color: #ffffff;
 }
 
+/*Sets header h1 display and font size*/
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -32,6 +35,7 @@ header div {
     font-size: 20px;
 }
 
+/*Sets header li style to none*/
 header div ul {
     list-style-type: none;
 }
@@ -75,6 +79,7 @@ p {
     margin-left: 20px;
 }
 
+/*Sets syling attributes to the aside*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -91,12 +96,10 @@ aside {
     color: #ffffff;
 }
 
-
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
 
 .aside_images {
     display: block;
@@ -104,8 +107,7 @@ h3 {
     max-width: 150px;
 }
 
-
-
+/*Sets styling attributes for the sections*/
 section {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,13 +122,12 @@ section img {
     max-height: 200px;
 }
 
-
 section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-
+/*Sets styling attributes to the footer*/
 footer {
     padding: 30px;
     clear: both;
@@ -134,6 +135,7 @@ footer {
     text-align: center;
 }
 
+/*Sets font size to footer*/
 footer h2 {
     font-size: 20px;
 }
