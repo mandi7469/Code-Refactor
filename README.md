@@ -15,8 +15,7 @@ This increased the efficiency of the CSS by consolidating the selectors and prop
 - CSS file is properly commented
 
 ## Link
-
-
+[Link to deplyed website](https://mandi7469.github.io/Code-Refactor/)
 
 ## Installation
 
